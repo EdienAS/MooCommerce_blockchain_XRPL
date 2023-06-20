@@ -2,6 +2,10 @@
 
 This codebase shows how we can use blockchain in ecommerce. As examples, this POC includes usage of blockchain in customer verification in blockchain and product warranty verification.
 
+# Demo
+
+[![MooCommerce Blockchain XRPL Demo](https://img.youtube.com/vi/sNcBZX_-INI/0.jpg)](https://www.youtube.com/watch?v=sNcBZX_-INI)
+
 #### Run xrpl_api
 
 ```sh
