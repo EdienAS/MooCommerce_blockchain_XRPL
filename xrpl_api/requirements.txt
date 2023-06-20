@@ -1,0 +1,9 @@
+fastapi
+python-dotenv
+PyJWT
+xrpl-py
+uvicorn
+motor
+cryptography
+pymongo
+requests
